@@ -1,0 +1,11 @@
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\bin\Debug\net8.0\Authorization.DTOs.deps.json
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\bin\Debug\net8.0\Authorization.DTOs.dll
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\bin\Debug\net8.0\Authorization.DTOs.pdb
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.AssemblyInfoInputs.cache
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.AssemblyInfo.cs
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.dll
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\refint\Authorization.DTOs.dll
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\Authorization.DTOs.pdb
+C:\Users\BMI 02\Downloads\Exodus.Cotacao-main\Exodus.Cotacao-main\Authorization.DTOs\obj\Debug\net8.0\ref\Authorization.DTOs.dll

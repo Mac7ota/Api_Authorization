@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "km4ulEAY8NWqNyJ/EWWU9fGi6MXTXkPrp+0i5AonQlU=",
+  "Source": "Exodus.Cotacao.Authorization",
+  "BasePath": "_content/Exodus.Cotacao.Authorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

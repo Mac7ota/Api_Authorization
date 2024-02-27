@@ -1,0 +1,163 @@
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.exe
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.deps.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.runtimeconfig.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.Exodus.Cotacao.Authorization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.build.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\scopedcss\bundle\Exodus.Cotacao.Authorization.styles.css
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.C.0929ED6F.Up2Date
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\refint\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\ref\Exodus.Cotacao.Authorization.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.exe
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.deps.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.runtimeconfig.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\EntityFramework.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.AssemblyReference.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfoInputs.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfo.cs
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.CoreCompileInputs.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.Exodus.Cotacao.Authorization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.build.Exodus.Cotacao.Authorization.props
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exodus.Cotacao.Authorization.props
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exodus.Cotacao.Authorization.props
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\scopedcss\bundle\Exodus.Cotacao.Authorization.styles.css
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.C.0929ED6F.Up2Date
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\refint\Exodus.Cotacao.Authorization.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.genruntimeconfig.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\obj\Debug\net8.0\ref\Exodus.Cotacao.Authorization.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\MySqlConnector.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\appsettings.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.exe
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.deps.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.runtimeconfig.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.Exodus.Cotacao.Authorization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.build.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exodus.Cotacao.Authorization.props
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\scopedcss\bundle\Exodus.Cotacao.Authorization.styles.css
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.C.0929ED6F.Up2Date
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\refint\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\Exodus.Cotacao.Authorization.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\obj\Debug\net8.0\ref\Exodus.Cotacao.Authorization.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.Authorization\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

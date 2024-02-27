@@ -1,0 +1,22 @@
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.deps.json
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.AssemblyInfoInputs.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.AssemblyInfo.cs
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.csproj.CoreCompileInputs.cache
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\refint\Exodus.Cotacao.DTOs.dll
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Projetos\Exodus.Cotacao\Exodus.Cotacao.DTOs\obj\Debug\net8.0\ref\Exodus.Cotacao.DTOs.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.deps.json
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\bin\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\refint\Exodus.Cotacao.DTOs.dll
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\Exodus.Cotacao.DTOs.pdb
+C:\Users\mauro\OneDrive\Área de Trabalho\Exodus.Cotacao-main\Exodus.Cotacao.DTOs\obj\Debug\net8.0\ref\Exodus.Cotacao.DTOs.dll

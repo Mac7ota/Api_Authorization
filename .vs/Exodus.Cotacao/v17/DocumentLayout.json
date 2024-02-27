@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\models\\token\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\models\\token\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|solutionrelative:exodus.cotacao.dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|solutionrelative:exodus.cotacao.dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.dtos\\auth\\deletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|solutionrelative:exodus.cotacao.dtos\\auth\\deletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.dtos\\auth\\checkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FFE3E-D50F-497E-AFCB-FCBD8999F228}|Exodus.Cotacao.DTOs\\Exodus.Cotacao.DTOs.csproj|solutionrelative:exodus.cotacao.dtos\\auth\\checkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\context\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\context\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\context\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\context\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|c:\\users\\mauro\\onedrive\\\u00E1rea de trabalho\\exodus.cotacao-main\\exodus.cotacao.authorization\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B64E8-C1E9-4D26-AE9B-D4BC0EC6DC8A}|Exodus.Cotacao.Authorization\\Exodus.Cotacao.Authorization.csproj|solutionrelative:exodus.cotacao.authorization\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:27:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "Exodus.Cotacao.DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:27:31.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "Exodus.Cotacao.DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:16:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Models\\Token\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Models\\Token\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Models\\Token\\RefreshToken.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Models\\Token\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:07:04.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Models\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Models\\Users\\User.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Models\\Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:43:27.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\appsettings.json",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\appsettings.json",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T00:47:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\DeleteDTO.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.DTOs\\Auth\\DeleteDTO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\DeleteDTO.cs",
+              "RelativeToolTip": "Exodus.Cotacao.DTOs\\Auth\\DeleteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:27:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\CheckDTO.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.DTOs\\Auth\\CheckDTO.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.DTOs\\Auth\\CheckDTO.cs",
+              "RelativeToolTip": "Exodus.Cotacao.DTOs\\Auth\\CheckDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:27:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Context\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Context\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:27:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Startup.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Startup.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Startup.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Startup.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:54:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA1wCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:50:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Services\\TokenService.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Services\\TokenService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:37:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Context\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Context\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Context\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:40:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Exodus.Cotacao.Authorization\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\\u00C1rea de Trabalho\\Exodus.Cotacao-main\\Exodus.Cotacao.Authorization\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Exodus.Cotacao.Authorization\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:14:01.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
